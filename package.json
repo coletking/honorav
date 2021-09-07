@@ -1,0 +1,24 @@
+{
+  "name": "pol_temp",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  },
+  "engines": {
+    "node": "14.16.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+
+  
+}
+
